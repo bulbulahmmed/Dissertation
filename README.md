@@ -4,4 +4,5 @@
 - Department of Geosciences, Baylor University
 - Comentor: Dr. Scott C. James
 - Comentor: Dr. John A. Dunbar
+- Degree started in: 08/2015
 - Defended on: 04/27/2020
